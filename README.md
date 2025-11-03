@@ -12,6 +12,10 @@ A passionate Computer Science student specializing in UI/UX and Cloud Computing.
 
 ---
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31h4txrkudufw4auszpyvdfbudti&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31h4txrkudufw4auszpyvdfbudti&redirect=true)
+
+---
+
 ### 🧰 Tech Stack
 
 **Languages:**  
